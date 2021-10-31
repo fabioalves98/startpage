@@ -1,0 +1,53 @@
+[
+    {
+        "name"  : "YouTube",
+        "link"  : "https://www.youtube.com/",
+        "key"   : "y"
+    },
+    {
+        "name"  : "Facebook",
+        "link"  : "https://www.facebook.com/",
+        "key"   : "f"
+    },
+    {
+        "name"  : "Twitter",
+        "link"  : "https://twitter.com/home?lang=en",
+        "key"   : "t"
+    },
+    {
+        "name"  : "Messenger",
+        "link"  : "https://www.messenger.com/",
+        "key"   : "m"
+    },
+    {
+        "name"  : "Trello",
+        "link"  : "https://trello.com/",
+        "key"   : "l"
+    },
+    {
+        "name"  : "Toggle",
+        "link"  : "https://track.toggl.com/timer",
+        "key"   : "g"
+    },
+    
+    {
+        "name"  : "Drive",
+        "link"  : "https://drive.google.com/drive/my-drive",
+        "key"   : "d"
+    },
+    {
+        "name"  : "Reddit",
+        "link"  : "https://www.reddit.com/",
+        "key"   : "r"
+    },
+    {
+        "name"  : "Medium",
+        "link"  : "https://medium.com/",
+        "key"   : "u"
+    },
+    {
+        "name"  : "GitHub",
+        "link"  : "https://github.com/",
+        "key"   : "h"
+    }
+]
