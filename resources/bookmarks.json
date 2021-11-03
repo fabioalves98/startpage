@@ -11,7 +11,7 @@
     },
     {
         "name"  : "Twitter",
-        "link"  : "https://twitter.com/home?lang=en",
+        "link"  : "https://twitter.com/",
         "key"   : "t"
     },
     {
@@ -26,13 +26,13 @@
     },
     {
         "name"  : "Toggle",
-        "link"  : "https://track.toggl.com/timer",
+        "link"  : "https://track.toggl.com/",
         "key"   : "g"
     },
     
     {
         "name"  : "Drive",
-        "link"  : "https://drive.google.com/drive/my-drive",
+        "link"  : "https://drive.google.com/",
         "key"   : "d"
     },
     {

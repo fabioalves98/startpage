@@ -8,3 +8,12 @@
 .tc {
     text-align: center;
 }
+
+.key {
+    display: inline-block;
+    min-width: 50px;
+    height: 50px;
+    margin: 2px;
+    padding: 2px;
+    outline: dashed 1px black;
+}
