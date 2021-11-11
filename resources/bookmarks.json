@@ -49,5 +49,25 @@
         "name"  : "GitHub",
         "link"  : "https://github.com/",
         "key"   : "h"
+    },
+    {
+        "name"  : "OLX",
+        "link"  : "https://olx.pt/",
+        "key"   : "o"
+    },
+    {
+        "name"  : "AllKeyShop",
+        "link"  : "https://www.allkeyshop.com/",
+        "key"   : "a"
+    },
+    {
+        "name"  : "eBay",
+        "link"  : "https://ebay.com/",
+        "key"   : "e"
+    },
+    {
+        "name"  : "PCDiga",
+        "link"  : "https://www.pcdiga.com/",
+        "key"   : "p"
     }
 ]
