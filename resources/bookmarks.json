@@ -66,8 +66,29 @@
         "key"   : "e"
     },
     {
-        "name"  : "PCDiga",
-        "link"  : "https://www.pcdiga.com/",
-        "key"   : "p"
+        "name"  : "Netflix",
+        "link"  : "https://www.netflix.com/",
+        "key"   : "x"
+    },
+    {
+        "name"  : "Unblocked",
+        "link"  : "https://unblockit.bz/",
+        "key"   : "n"
+    },
+    {
+        "name"  : "LinkedIn",
+        "link"  : "https://www.linkedin.com/",
+        "key"   : "k"
+    },
+    {
+        "name"  : "IMDb",
+        "link"  : "https://www.imdb.com/",
+        "key"   : "i"
+    },
+    {
+        "name"  : "Trakt",
+        "link"  : "https://trakt.tv/",
+        "key"   : "v"
     }
+
 ]
