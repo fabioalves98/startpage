@@ -89,6 +89,10 @@
         "name"  : "Trakt",
         "link"  : "https://trakt.tv/",
         "key"   : "v"
+    },
+    {
+        "name"  : "Plex",
+        "link"  : "https://app.plex.tv/desktop/",
+        "key"   : "p"
     }
-
 ]
